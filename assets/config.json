@@ -1,0 +1,22 @@
+{
+    "GenesisGif": "https://i.imgur.com/driqiNJ.gif",
+    "LogAttachments": "True",
+    "NitroSniper": "True",
+    "StoreDMFiles": "False",
+    "StoreGCFiles": "False",
+    "StoreGuildFiles": "False",
+    "SlotbotSniper" : {
+        "snipe" : "True",
+        "id" : 346353957029019648
+    },
+    "PolluxSniper" : {
+        "snipe" : "True",
+        "id" : 271394014358405121
+    },
+    "attachment_webhook": "ATTACHMENT WEBHOOK HERE",
+    "default_status": "default STATUS HERE",
+    "duplicates": [],
+    "nitro_webhook": "nitro webhook here",
+    "prefix": "prefix here",
+    "token": "token here"
+}

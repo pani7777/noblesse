@@ -1,0 +1,11 @@
+discord
+colorama
+requests
+asyncio
+noblesse
+importlib_metadata
+user_agent
+pyfiglet
+telebot
+emoji
+youtube_dl

@@ -1,0 +1,10 @@
+{
+    "msg" : "Message to Be MassDMED.",
+    "spam" : "@everyone Message to be spammed by Webhooks.",
+    "channel" : "ChannelName",
+    "role" : "RoleName",
+    "status" : "Bots Presence Status",
+    "blacklist" : "add ids here and split them by space",
+    "server" : "Name of the Server",
+    "name" : "Name of the Webhooks"
+}
